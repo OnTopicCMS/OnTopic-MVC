@@ -1,5 +1,5 @@
 ﻿# `Ignia.Topics.Web.Mvc`
-The `Ignia.Topics.Web.Mvc` assembly provides a default implementation for utilizing OnTopic with the ASP.NET MVC 5.x Framework.
+The `Ignia.Topics.Web.Mvc` assembly provides an implementation of OnTopic for use with the ASP.NET MVC 5.x Framework.
 
 ### Contents
 - [Components](#components)
