@@ -38,6 +38,11 @@
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.3.0" />
     <PackageReference Include="MSTest.TestAdapter" Version="2.0.0" />
     <PackageReference Include="MSTest.TestFramework" Version="2.0.0" />
+    <PackageReference Include="OnTopic" Version="4.0.0-alpha.2" />
+    <PackageReference Include="OnTopic.Data.Caching" Version="4.0.0-alpha.2" />
+    <PackageReference Include="OnTopic.Data.Sql" Version="4.0.0-alpha.2" />
+    <PackageReference Include="OnTopic.TestDoubles" Version="4.0.0-alpha.2" />
+    <PackageReference Include="OnTopic.ViewModels" Version="4.0.0-alpha.2" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System.ComponentModel.DataAnnotations">
@@ -46,10 +51,6 @@
     <Reference Include="System.Web" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\OnTopic.Data.Caching\OnTopic.Data.Caching.csproj" />
-    <ProjectReference Include="..\OnTopic.TestDoubles\OnTopic.TestDoubles.csproj" />
-    <ProjectReference Include="..\OnTopic.ViewModels\OnTopic.ViewModels.csproj" />
     <ProjectReference Include="..\OnTopic.Web.Mvc\OnTopic.Web.Mvc.csproj" />
-    <ProjectReference Include="..\OnTopic\OnTopic.csproj" />
   </ItemGroup>
 </Project>
