@@ -10,7 +10,7 @@
     <Company>Ignia</Company>
     <Product>Ignia OnTopic Library</Product>
     <Description>Provides presentation-layer support for the ASP.NET MVC Framework.</Description>
-    <Copyright>Copyright © 2015 Ignia, LLC</Copyright>
+    <Copyright>©2020 Ignia, LLC</Copyright>
     <OutputPath>bin\$(Configuration)\</OutputPath>
     <Authors>Ignia</Authors>
   </PropertyGroup>

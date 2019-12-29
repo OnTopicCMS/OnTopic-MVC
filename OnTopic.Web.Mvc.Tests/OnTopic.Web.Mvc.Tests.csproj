@@ -19,7 +19,7 @@
     <Company>Ignia</Company>
     <Product>Ignia OnTopic Library</Product>
     <Description>Provides unit tests for the OnTopic MVC library.</Description>
-    <Copyright>Copyright © 2019 Ignia, LLC</Copyright>
+    <Copyright>©2020 Ignia, LLC</Copyright>
     <OutputPath>bin\$(Configuration)\</OutputPath>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
