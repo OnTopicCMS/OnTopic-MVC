@@ -10,7 +10,7 @@
     <Company>Ignia</Company>
     <Product>Ignia OnTopic Library</Product>
     <Description>Provides presentation-layer support for the ASP.NET MVC Framework.</Description>
-    <Copyright>©2020 Ignia, LLC</Copyright>
+    <Copyright>Copyright © 2015 Ignia, LLC</Copyright>
     <OutputPath>bin\$(Configuration)\</OutputPath>
     <Authors>Ignia</Authors>
   </PropertyGroup>
@@ -41,8 +41,8 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.Web.Infrastructure" Version="1.0.0.0" />
-    <PackageReference Include="OnTopic" Version="4.0.0-alpha.2" />
-    <PackageReference Include="OnTopic.ViewModels" Version="4.0.0-alpha.2" />
+    <PackageReference Include="OnTopic" Version="4.0.0" />
+    <PackageReference Include="OnTopic.ViewModels" Version="4.0.0" />
     <PackageReference Include="UtilPack.NuGet.MSBuild" Version="2.9.1">
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
